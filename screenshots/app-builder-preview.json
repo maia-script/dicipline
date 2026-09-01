@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Dynamic Obsession",
+      "hasCanvas": false,
+      "bodyTextLen": 776,
+      "bodyTextHash": "a5b774ed91181a24b0343f0d083c507fd1ea12a316ee8757434d98bd48760b28",
+      "bodyTextPrefix": "DYNAMIC Obsession Hoje Agenda Tarefas Estudos Progresso Ajustes ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Dynamic Obsession",
+      "hasCanvas": false,
+      "bodyTextLen": 768,
+      "bodyTextHash": "5ad60b64c6200fd960a61bc96df5571f875a62853925400bb6d982bc7d835f4e",
+      "bodyTextPrefix": "DYNAMIC Obsession TERÇA-FEIRA, 1 DE SETEMBRO Hoje Evento Tarefa ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
